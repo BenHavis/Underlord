@@ -1,0 +1,43 @@
+
+
+body{
+  background-color: dimgrey;
+  
+}
+
+
+
+header{
+ 
+    background-color: antiquewhite;
+ 
+}
+
+#fblink{
+    
+    text-align: right;
+    padding: 50px
+}
+
+#main-pic{
+    width: 25%; height: auto;
+    max-width: 150px;
+    object-fit: cover;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    top: 300px;
+    
+}
+
+.textarea{
+    text-align: justify;
+}
+
+.nav{
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
